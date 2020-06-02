@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color:aliceblue; 
+    text-align: center;
+}
+
+p{
+    color:white
+}
+.main-container {
+    text-align: center;
+    background-color: black;
+}
+
+.text-container { 
+    text-align: left;
+    color:white;
+}
+
+.white-class{
+    color: aliceblue;
+}
